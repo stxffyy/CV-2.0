@@ -1,6 +1,7 @@
 .container {
     margin-top: 10px;
     margin-bottom: 10px;
+
 }
 
 .name {
@@ -30,4 +31,5 @@
 
 .ul {
     padding-left: 20px;
+    color: red;
 }
